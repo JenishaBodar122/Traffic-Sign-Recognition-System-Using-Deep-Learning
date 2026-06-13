@@ -1,1 +1,2 @@
 # Traffic-Sign-Recognition-System-Using-Deep-Learning
+The traffic signs detection system is a deep learning-based application developed to detect and classify traffic signs using image datasets. The system uses a dataset-based training approach to train a Convolutional Neural Network (CNN) model for recognizing different traffic signs such as stop signs, speed limits, and warning signs. Image processing and computer vision techniques are applied to improve detection accuracy and real-time performance.
